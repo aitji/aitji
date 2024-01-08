@@ -31,4 +31,10 @@ Feel free to check out [My Project](https://lnwaitji.github.io/)
 
 Let's connect and explore the world of code and gaming together! 🌎🎮
 
-And I'm Thai >3
+## Profile Analyze:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnwaitji&layout=compact&theme=dracula)](https://github.com/lnwaitji)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lnwaitji&show_icons=true&theme=dracula)
+
+<!-- [![views-count](https://komarev.com/ghpvc/?username=lnwaitji&style=for-the-badge)](https://github.com/lnwaitji) -->
