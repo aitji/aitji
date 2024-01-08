@@ -35,6 +35,6 @@ Let's connect and explore the world of code and gaming together! 🌎🎮
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnwaitji&layout=compact&theme=dracula)](https://github.com/lnwaitji)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lnwaitji&show_icons=true&theme=dracula)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lnwaitji&show_icons=true&theme=dracula)](https://github.com/lnwaitji)
 
 <!-- [![views-count](https://komarev.com/ghpvc/?username=lnwaitji&style=for-the-badge)](https://github.com/lnwaitji) -->
