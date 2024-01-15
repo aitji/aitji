@@ -17,8 +17,9 @@ Feel free to check out [My Project](https://mcbe.vercel.app/)
 
 ## Follow Me on Social Media! 📱
 
-<a href="https://www.youtube.com/c/@inwaitji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@inwaitji" height="30" width="40" /></a>
-<a href="https://discord.gg/inwaitji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="inwaitji" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@inwaitji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@inwaitji" height="30" width="40" /> @InwAitJi
+</a>
+<a href="https://discord.gg/inwaitji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="inwaitji" height="30" width="40" /></a> inwaitji
 </p>
 
 Let's connect and explore the world of code and gaming together! 🌎🎮
