@@ -1,6 +1,7 @@
 # Hi there! 🐾 I'm AitJi!
 Welcome to my GitHub profile! I'm a mainly javascript(typescript) programmer (rn).
 <hr>
+
 ## Languages 💻
 
 Here are the programming languages that I am familiar with:
@@ -11,6 +12,7 @@ Here are the programming languages that I am familiar with:
 
 Feel free to check out [My Project](https://mcbe.vercel.app/)
 <hr>
+
 ## Contact me
 
 <a href="https://www.youtube.com/c/@inwaitji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@inwaitji" height="30" width="40" /> AitJi Gamer (InwAitJi)
