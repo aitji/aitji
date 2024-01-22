@@ -19,11 +19,13 @@ Currently Developer [CMGMMO](https://cmgmmo.vercel.app)
 
 <a href="https://www.youtube.com/c/@inwaitji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@inwaitji" height="30" width="40" /> AitJi Gamer (InwAitJi)
 </a>
-<a href="https://discord.gg/inwaitji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="inwaitji" height="30" width="40" /></a> inwaitji
+<a href="https://discord.com/invite/jPerpN98JX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="inwaitji" height="30" width="40" /></a> inwaitji
 </p>
 <hr>
 
+
 ## Profile Analyze:
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnwaitji&layout=compact&theme=dracula)](https://github.com/lnwaitji)
 
