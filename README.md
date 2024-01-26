@@ -1,4 +1,4 @@
-# Hi there! 🐾 I'm AitJi!
+# Hi there! 🐾 I'm AitJi! [![Wake Time](https://wakatime.com/badge/user/8f1fec2f-7186-44c1-b5ed-fe095d0dd9f6.svg)](https://github.com/lnwaitji)
 Welcome to my GitHub profile! I'm a mainly javascript(typescript) programmer (rn).
 <hr>
 
