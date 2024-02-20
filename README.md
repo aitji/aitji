@@ -44,7 +44,7 @@ you can still contact if you would to. 🥴
 ## PROFILE ANALYZE:
 
 ### TOP LANG(s)
-My mainly programming lang(s), That I'm familiar with is ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+My mainly programming lang(s), That I'm familiar with is [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnwaitji&layout=compact&theme=dracula)](#)
 
