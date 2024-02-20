@@ -9,17 +9,26 @@ Welcome to my GitHub profile! I'm a mainly JavaScript (TypeScript) programmer.
 
 Here are the programming languages that I am familiar with:
 
-- [![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](#) ``Hyper Text Markup Language``
-- [![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)](#) ``Cascading Style Sheets``
-- [![Python](https://img.shields.io/badge/PYTHON-3670A0?style=flat&logo=python&logoColor=ffdd54)](#) ``Python is a computer programming language often used to build websites and software``
-- [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)](#) ``Hypertext Preprocessor``
-- [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#) ``JavaScript is a dynamic programming language``
-- [![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](#) ``a syntactic superset of JavaScript which adds static typing``
-- [![NodeJS](https://img.shields.io/badge/NODE.JS-6DA55F?style=flat&logo=node.js&logoColor=white)](#) ``Open Source, cross-platform runtime environment for executing JavaScript code``
-- [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)](#) ``Node package manager``
-- [![Markdown](https://img.shields.io/badge/MARKDOWN-%23000000.svg?style=flat&logo=markdown&logoColor=white)](#) ``Lightweight markup language for creating formatted text using a plain-text editor``
+[![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](#) ``Hyper Text Markup Language``
+
+[![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)](#) ``Cascading Style Sheets``
+
+[![Python](https://img.shields.io/badge/PYTHON-3670A0?style=flat&logo=python&logoColor=ffdd54)](#) ``Python is a computer programming language often used to build websites and software``
+
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)](#) ``Hypertext Preprocessor``
+
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#) ``JavaScript is a dynamic programming language``
+
+[![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](#) ``a syntactic superset of JavaScript which adds static typing``
+
+[![NodeJS](https://img.shields.io/badge/NODE.JS-6DA55F?style=flat&logo=node.js&logoColor=white)](#) ``Open Source, cross-platform runtime environment for executing JavaScript code``
+
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)](#) ``Node package manager``
+
+[![Markdown](https://img.shields.io/badge/MARKDOWN-%23000000.svg?style=flat&logo=markdown&logoColor=white)](#) ``Lightweight markup language for creating formatted text using a plain-text editor``
 
 Currently Developer at **[CMGMMO](https://cmgmmo.vercel.app)**
+
 <hr>
 
 ## CONTACT ME:
