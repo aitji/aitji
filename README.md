@@ -1,7 +1,7 @@
 # Hi there! 🐾 I'm AitJi!
-[![Wake Time](https://wakatime.com/badge/user/8f1fec2f-7186-44c1-b5ed-fe095d0dd9f6.svg)](https://github.com/lnwaitji)
+[![Wake Time](https://wakatime.com/badge/user/8f1fec2f-7186-44c1-b5ed-fe095d0dd9f6.svg)](#)
 
-Welcome to my GitHub profile! I'm a mainly JavaScript (TypeScript) programmer.
+Welcome to my GitHub profile! I'm a mainly [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#) ([![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](#)) programmer.
 <hr>
 
 
@@ -44,7 +44,7 @@ you can still contact if you would to. 🥴
 ## PROFILE ANALYZE:
 
 ### TOP LANG(s)
-My mainly programming lang(s), That I'm familiar with is [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)]()
+My mainly programming lang(s), That I'm familiar with is [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnwaitji&layout=compact&theme=dracula)](#)
 
