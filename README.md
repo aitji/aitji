@@ -1,7 +1,10 @@
 # Hi there! 🐾 I'm AitJi!
 [![Wake Time](https://wakatime.com/badge/user/8f1fec2f-7186-44c1-b5ed-fe095d0dd9f6.svg)](#)
 
-Welcome to my GitHub profile! I'm a mainly [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#) ([![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](#)) programmer.
+hi, im aitji a cool developer, im love silly sand block game
+
+i dunno how to make better readme.md file sorry, i thought, im better in html here [my porifle](https://aitji.vercel.app/profile) 
+
 <hr>
 
 
