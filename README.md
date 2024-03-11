@@ -3,7 +3,7 @@
 
 hi, im aitji a cool developer, im love silly sand block game
 
-i dunno how to make better readme.md file sorry, i thought, im better in html here [my porifle](https://aitji.vercel.app/profile) 
+i dunno how to make better readme.md file sorry, i thought, im better in html here [my profile](https://aitji.vercel.app/profile) 
 
 <hr>
 
