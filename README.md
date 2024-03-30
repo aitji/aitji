@@ -1,5 +1,5 @@
 # Hi there! 🐾 I'm AitJi!
-[![Wake Time](https://wakatime.com/badge/user/8f1fec2f-7186-44c1-b5ed-fe095d0dd9f6.svg)](#)
+<a href="https://discord.gg/NVYrkFWrQh"><img src="https://img.shields.io/discord/1218673790775726182.svg?style=flat&label=Azurite&logo=discord&logoColor=ffffff&color=011e2c&labelColor=1f3157"><a/>
 
 hi, im aitji a cool developer, im love silly sand block game
 
