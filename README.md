@@ -1,5 +1,5 @@
 # Hi there! 🐾 I'm AitJi!
-<a href="https://discord.gg/NVYrkFWrQh"><img src="https://img.shields.io/discord/1218673790775726182.svg?style=flat&label=Azurite&logo=discord&logoColor=ffffff&color=011e2c&labelColor=1f3157"><a/>
+<a href="https://discord.gg/NVYrkFWrQh"><img src="https://img.shields.io/discord/1112527603698511942.svg?style=flat&label=@aitji&logo=discord&logoColor=ffffff&color=2c0101&labelColor=571f1f"><a/>
 
 hi, im aitji a cool developer, im love silly sand block game
 
