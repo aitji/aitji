@@ -49,11 +49,11 @@ you can still contact if you would to. 🥴
 ### TOP LANG(s)
 My mainly programming lang(s), That I'm familiar with is [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnwaitji&layout=compact&theme=dracula)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitji&layout=compact&theme=dracula)](#)
 
 <hr>
 
 ### GITHUB STAT(s)
 My GitHub stats, including ⭐stars, 🌠commits, 🧻pull requests, 🐜issues, and 🙏collaborations.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lnwaitji&show_icons=true&theme=dracula)](#)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aitji&show_icons=true&theme=dracula)](#)
