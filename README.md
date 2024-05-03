@@ -39,8 +39,8 @@ Yo! I'm look interesting? heh no? ugh.....
 
 you can still contact if you would to. 🥴
 
-<a href="https://www.youtube.com/c/@inwaitji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@inwaitji" height="30" width="40" />**AitJi Gamer** *(@InwAitJi)*
-<a href="https://discord.com/invite/jPerpN98JX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="inwaitji" height="30" width="40" />**! AitJi Gamer !** *(@inwaitji)*</a>
+<a href="https://www.youtube.com/c/@aitji." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aitji." height="30" width="40" />**AitJi Gamer** *(@aitji.)*
+<a href="https://discord.com/invite/jPerpN98JX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aitji" height="30" width="40" />**! AitJi Gamer !** *(@aitji)*</a>
 
 <hr>
 
