@@ -30,8 +30,6 @@ Here are the programming languages that I am familiar with:
 
 [![Markdown](https://img.shields.io/badge/MARKDOWN-%23000000.svg?style=flat&logo=markdown&logoColor=white)](#) ``Lightweight markup language for creating formatted text using a plain-text editor``
 
-Currently Developer at **[CMGMMO](https://cmgmmo.vercel.app)**
-
 <hr>
 
 ## CONTACT ME:
