@@ -12,23 +12,23 @@
   <p>Here are the programming languages that I am familiar with:</p>
   <div>
     <a href="#"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
-    <span>``Hyper Text Markup Language``</span><br>
+    <span>Hyper Text Markup Language</span><br>
     <a href="#"><img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
-    <span>``Cascading Style Sheets``</span><br>
+    <span>Cascading Style Sheets</span><br>
     <a href="#"><img src="https://img.shields.io/badge/PYTHON-3670A0?style=flat&logo=python&logoColor=ffdd54"></a>
-    <span>``Python is a computer programming language often used to build websites and software``</span><br>
+    <span>Python is a computer programming language often used to build websites and software</span><br>
     <a href="#"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white"></a>
-    <span>``Hypertext Preprocessor``</span><br>
+    <span>Hypertext Preprocessor</span><br>
     <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a>
-    <span>``JavaScript is a dynamic programming language``</span><br>
+    <span>JavaScript is a dynamic programming language</span><br>
     <a href="#"><img src="https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
-    <span>``a syntactic superset of JavaScript which adds static typing``</span><br>
+    <span>a syntactic superset of JavaScript which adds static typing</span><br>
     <a href="#"><img src="https://img.shields.io/badge/NODE.JS-6DA55F?style=flat&logo=node.js&logoColor=white"></a>
-    <span>``Open Source, cross-platform runtime environment for executing JavaScript code``</span><br>
+    <span>Open Source, cross-platform runtime environment for executing JavaScript code</span><br>
     <a href="#"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white"></a>
-    <span>``Node package manager``</span><br>
+    <span>Node package manager</span><br>
     <a href="#"><img src="https://img.shields.io/badge/MARKDOWN-%23000000.svg?style=flat&logo=markdown&logoColor=white"></a>
-    <span>``Lightweight markup language for creating formatted text using a plain-text editor``</span>
+    <span>Lightweight markup language for creating formatted text using a plain-text editor</span>
   </div>
 </div>
 
@@ -72,6 +72,6 @@
 <div align="left">
   <h2>GITHUB STAT(s)</h2>
   <p>My GitHub stats, including ⭐stars, 🌠commits, 🧻pull requests, 🐜issues, and 🙏collaborations.</p>
-  <img src="https://count.chiya.dev/get/@aitji?theme=moebooru"><br>
+  <img src="https://count.chiya.dev/get/@aitji?theme=rule34"><br> <!-- o.O nothing to see here -->
   <img src="https://github-readme-stats.vercel.app/api?username=aitji&show_icons=true&theme=dracula">
 </div>
