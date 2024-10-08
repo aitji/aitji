@@ -69,7 +69,7 @@
 </div>
 
 
-<div align="left">
+<div align="center">
   <h2>GITHUB STAT(s)</h2>
   <p>My GitHub stats, including ⭐stars, 🌠commits, 🧻pull requests, 🐜issues, and 🙏collaborations.</p>
   <img src="https://count.chiya.dev/get/@aitji?theme=rule34"><br> <!-- o.O nothing to see here -->
