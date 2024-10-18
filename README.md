@@ -54,7 +54,7 @@
   <p>Here are some of my past projects, mainly websites:</p>
   <p>1. <a href='https://tpform.vercel.app/'>tpform</a> (TH) - Public Relations for Tha Tako Phitthayakhom School. I'll stop maintaining the front&back end by 2027.</p>
   <p>2. <a href='./#'>Field Trip 4/1 (2024)</a> (TH) - Submit song requests during the 2024 school field trip with class 4/1. *Website was shut down (front&back) after the trip ends!</p>
-  <p>3. <a href='https://mcbe.vercel.app/'>Addon Giveaway</a> (TH) - A place where I share my addons. I still maintain this site, but it has no backend :p</p>
+  <p>3. <a href='https://addonhub.vercel.app/'>Addon Hub</a> (ENG) - A place where I share my addons. I still maintain this site, but it has no backend :p</p>
   <p>4. <a href='https://cmgmmo.vercel.app/'>CMGMMO</a> (TH) - "Discontinued" site for the CMGMMO Minecraft Bedrock server. "V e r y  o l d"</p>
 </div>
 
