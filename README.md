@@ -3,7 +3,7 @@
   <a href="https://discord.gg/NVYrkFWrQh">
     <img src="https://img.shields.io/discord/1112527603698511942.svg?style=flat&label=@aitji&logo=discord&logoColor=ffffff&color=2c0101&labelColor=571f1f">
   </a>
-  <p>hi, im aitji a cool developer, im love silly sand block game mostly on bedrock edition</p>
+  <p>hi, im aitji a cool developer, im love silly sand block game mostly on bedrock edition, You can check out my addon hub here: <a href="https://www.addonhub.online">addonhub.online</a></p>
 </div>
 
 
@@ -54,7 +54,7 @@
   <p>Here are some of my past projects, mainly websites:</p>
   <p>1. <a href='https://tpform.vercel.app/'>tpform</a> (TH) - Public Relations for Tha Tako Phitthayakhom School. I'll stop maintaining the front&back end by 2027.</p>
   <p>2. <a href='./#'>Field Trip 4/1 (2024)</a> (TH) - Submit song requests during the 2024 school field trip with class 4/1. *Website was shut down (front&back) after the trip ends!</p>
-  <p>3. <a href='https://addonhub.vercel.app/'>Addon Hub</a> (ENG) - A place where I share my addons. I still maintain this site, but it has no backend :p</p>
+  <p>3. <a href='https://addonhub.online/'>Addon Hub</a> (ENG) - A place where I share my addons. I still maintain this site, but it has no backend :p</p>
   <p>4. <a href='https://cmgmmo.vercel.app/'>CMGMMO</a> (TH) - "Discontinued" site for the CMGMMO Minecraft Bedrock server. "V e r y  o l d"</p>
 </div>
 
