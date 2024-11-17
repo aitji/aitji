@@ -56,6 +56,7 @@
   <p>2. <a href='./#'>Field Trip 4/1 (2024)</a> (TH) - Submit song requests during the 2024 school field trip with class 4/1. *Website was shut down (front&back) after the trip ends!</p>
   <p>3. <a href='https://addonhub.online/'>Addon Hub</a> (ENG) - A place where I share my addons. I still maintain this site, but it has no backend :p</p>
   <p>4. <a href='https://cmgmmo.vercel.app/'>CMGMMO</a> (TH) - "Discontinued" site for the CMGMMO Minecraft Bedrock server. "V e r y  o l d"</p>
+  <p>5. <a href='https://addonhub.online/aitji'>Portfolio</a> (ENG) - My simple portfolio, (Don't take it too hard i simply write it)</p>
 </div>
 
 
