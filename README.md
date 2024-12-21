@@ -1,11 +1,21 @@
 <div align="center">
   <h1>Hi there! 🐾 I'm AitJi!</h1>
-  <a href="https://discord.gg/NVYrkFWrQh">
-    <img src="https://img.shields.io/discord/1112527603698511942.svg?style=flat&label=@aitji&logo=discord&logoColor=ffffff&color=2c0101&labelColor=571f1f">
-  </a>
   <p>hi, im aitji a cool developer, im love silly sand block game mostly on bedrock edition, You can check out my addon hub here: <a href="https://www.addonhub.online">addonhub.online</a></p>
 </div>
 
+<p style="text-align: center; padding: 0; margin: 0;">
+  <div style="text-align: center;">
+    <a href="https://discord.com/users/660742557009051659">
+      <p align="center"><img alt="Discord Profile" src="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=2c0505&borderRadius=8">
+    </a></p>
+  </div>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/NVYrkFWrQh"><img src="https://img.shields.io/discord/1112527603698511942.svg?style=flat&label=@aitji&logo=discord&logoColor=ffffff&color=2c0101&labelColor=571f1f"></a>
+  <a href="https://addonhub.online/"><img src="https://img.shields.io/badge/addonhub.online-2c0101?style=flat&label=Website&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=ffffff&color=2c0101&labelColor=571f1f"></a>
+  <a href="mailto:ait.suriya@gmail.com"><img src="https://img.shields.io/badge/ait.suriya@gmail.com-2c0101?style=flat&label=Gmail&logo=gmail&logoColor=ffffff&color=2c0101&labelColor=571f1f"></a>
+</p>
 
 <div align="left">
   <h2>LANGUAGE(s) / TECH STACK 💻</h2>
