@@ -5,7 +5,7 @@
 
 <br>
 
-<div style="text-align: center; margin: 0; padding: 0;">
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
