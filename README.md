@@ -9,16 +9,13 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=2c0505&borderRadius=8"
-      style="border-radius: 8px;">
+      srcset="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=2c0505&borderRadius=8px">
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=775094&borderRadius=8"
-      style="border-radius: 8px;">
+      srcset="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=800080&borderRadius=8px">
     <img
       alt="Discord Profile"
-      src="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=775094&borderRadius=8"
-      style="border-radius: 8px;">
+      src="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=800080&borderRadius=8px">
   </picture>
 </div>
 
