@@ -7,15 +7,15 @@
 
 <div align="center">
   <picture>
-    <source
+    <!-- <source
       media="(prefers-color-scheme: dark)"
       srcset="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=2c0505&borderRadius=8px">
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=800080&borderRadius=8px">
+      srcset="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=800080&borderRadius=8px"> -->
     <img
       alt="Discord Profile"
-      src="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=800080&borderRadius=8px">
+      src="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=2c0505&borderRadius=8px">
   </picture>
 </div>
 
@@ -25,45 +25,45 @@
   <!-- Discord Badge -->
   <a href="https://discord.gg/NVYrkFWrQh">
     <picture>
-      <source
+      <!-- <source
         media="(prefers-color-scheme: dark)"
         srcset="https://img.shields.io/discord/1112527603698511942.svg?style=flat&label=@aitji&logo=discord&logoColor=ffffff&color=2c0101&labelColor=571f1f">
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://img.shields.io/discord/1112527603698511942.svg?style=flat&label=@aitji&logo=discord&logoColor=610761&color=800080&labelColor=ffffff">
+        srcset="https://img.shields.io/discord/1112527603698511942.svg?style=flat&label=@aitji&logo=discord&logoColor=610761&color=800080&labelColor=ffffff"> -->
       <img
         alt="Discord Badge"
-        src="https://img.shields.io/discord/1112527603698511942.svg?style=flat&label=@aitji&logo=discord&logoColor=610761&color=800080&labelColor=ffffff">
+        src="https://img.shields.io/discord/1112527603698511942.svg?style=flat&label=@aitji&logo=discord&logoColor=ffffff&color=2c0101&labelColor=571f1f">
     </picture>
   </a>
 
   <!-- Addonhub Badge -->
   <a href="https://addonhub.online/">
     <picture>
-      <source
+      <!-- <source
         media="(prefers-color-scheme: dark)"
         srcset="https://img.shields.io/badge/addonhub.online-2c0101?style=flat&label=Host&logo=website&logoColor=ffffff&color=2c0101&labelColor=571f1f">
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://img.shields.io/badge/addonhub.online-2c0101?style=flat&label=Host&logo=website&logoColor=610761&color=800080&labelColor=ffffff">
+        srcset="https://img.shields.io/badge/addonhub.online-2c0101?style=flat&label=Host&logo=website&logoColor=610761&color=800080&labelColor=ffffff"> -->
       <img
         alt="AddonHub Badge"
-        src="https://img.shields.io/badge/addonhub.online-2c0101?style=flat&label=Host&logo=website&logoColor=610761&color=800080&labelColor=ffffff">
+        src="https://img.shields.io/badge/addonhub.online-2c0101?style=flat&label=Host&logo=website&logoColor=ffffff&color=2c0101&labelColor=571f1f">
     </picture>
   </a>
 
   <!-- Gmail Badge -->
   <a href="mailto:ait.suriya@gmail.com">
     <picture>
-      <source
+      <!-- <source
         media="(prefers-color-scheme: dark)"
         srcset="https://img.shields.io/badge/ait.suriya@gmail.com-2c0101?style=flat&label=Gmail&logo=gmail&logoColor=ffffff&color=2c0101&labelColor=571f1f">
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://img.shields.io/badge/ait.suriya@gmail.com-4c89f0?style=flat&label=Gmail&logo=gmail&logoColor=610761&color=800080&labelColor=ffffff">
+        srcset="https://img.shields.io/badge/ait.suriya@gmail.com-4c89f0?style=flat&label=Gmail&logo=gmail&logoColor=610761&color=800080&labelColor=ffffff"> -->
       <img
         alt="Gmail Badge"
-        src="https://img.shields.io/badge/ait.suriya@gmail.com-4c89f0?style=flat&label=Gmail&logo=gmail&logoColor=610761&color=800080&labelColor=ffffff">
+        src="https://img.shields.io/badge/ait.suriya@gmail.com-2c0101?style=flat&label=Gmail&logo=gmail&logoColor=ffffff&color=2c0101&labelColor=571f1f">
     </picture>
   </a>
 </div>
