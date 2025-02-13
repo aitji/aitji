@@ -38,7 +38,7 @@
   </a>
 
   <!-- Addonhub Badge -->
-  <a href="https://addonhub.online/">
+  <a href="https://aitji.is-a.dev">
     <picture>
       <!-- <source
         media="(prefers-color-scheme: dark)"
@@ -126,7 +126,7 @@
         <td>Inactive</td>
       </tr>
       <tr>
-        <td><a href="https://addonhub.online/">addon hub</a></td>
+        <td><a href="https://aitji.is-a.dev/">addon hub</a></td>
         <td>share my addons with my audience.</td>
         <td>Active</td>
       </tr>
@@ -136,7 +136,7 @@
         <td>Discontinued</td>
       </tr>
       <tr>
-        <td><a href="https://addonhub.online/aitji">draft portfolio</a></td>
+        <td><a href="https://aitji.is-a.dev/aitji">draft portfolio</a></td>
         <td>a simple draft portfolio site didn't do anything right-now.</td>
         <td>Active</td>
       </tr>
