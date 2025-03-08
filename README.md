@@ -1,25 +1,8 @@
 <div align="center">
-  <h1>hi there</h1>
-  <p>i'm @aitji, a full-stack developer who like the silly sand block game <sub>bedrock edition</sub></p>
-</div>
-
-<br>
-
-<div align="center">
   <picture>
-    <!-- <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=2c0505&borderRadius=8px">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=800080&borderRadius=8px"> -->
-    <img
-      alt="Discord Profile"
-      src="https://lanyard.cnrad.dev/api/660742557009051659?showDisplayName=true&theme=&idleMessage=i'm%20offline%20rn%20swrry!&bg=2c0505&borderRadius=8px">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=0,5,9,10,16,27,29&text=@aitji&reversal=false&section=header&textBg=false&desc=hello%20i'm%20aitji%2C%20a%20full-stack%20software%20developer&descSize=25&fontAlignY=40&descAlignY=58">
   </picture>
 </div>
-
-<br>
 
 <div align="center">
   <!-- Discord Badge -->
@@ -53,19 +36,23 @@
   </a>
 
   <!-- Gmail Badge -->
-  <a href="mailto:ait.suriya@gmail.com">
+  <a href="mailto:aitji@duck.com">
     <picture>
       <!-- <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://img.shields.io/badge/ait.suriya@gmail.com-2c0101?style=flat&label=Gmail&logo=gmail&logoColor=ffffff&color=2c0101&labelColor=571f1f">
+        srcset="https://img.shields.io/badge/aitji@duck.com-2c0101?style=flat&label=Gmail&logo=gmail&logoColor=ffffff&color=2c0101&labelColor=571f1f">
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://img.shields.io/badge/ait.suriya@gmail.com-4c89f0?style=flat&label=Gmail&logo=gmail&logoColor=610761&color=800080&labelColor=ffffff"> -->
+        srcset="https://img.shields.io/badge/aitji@duck.com-4c89f0?style=flat&label=Gmail&logo=gmail&logoColor=610761&color=800080&labelColor=ffffff"> -->
       <img
         alt="Gmail Badge"
-        src="https://img.shields.io/badge/ait.suriya@gmail.com-2c0101?style=flat&label=Gmail&logo=gmail&logoColor=ffffff&color=2c0101&labelColor=571f1f">
+        src="https://img.shields.io/badge/aitji@duck.com-2c0101?style=flat&label=Gmail&logo=gmail&logoColor=ffffff&color=2c0101&labelColor=571f1f">
     </picture>
   </a>
+</div>
+
+<div align="center">
+  <p>i'm <a href="https://aitji.is-a.dev">@aitji</a>, a full-stack developer who like the silly sand block game<sub>bedrock edition</sub></p>
 </div>
 
 <br>
@@ -153,13 +140,13 @@
     <picture>
       <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=aitji&show_icons=true&theme=dracula">
+      srcset="https://github-readme-stats.vercel.app/api?username=aitji&show_icons=true&theme=dark&hide_border=true">
       <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=aitji&show_icons=true&theme=default">
+      srcset="https://github-readme-stats.vercel.app/api?username=aitji&show_icons=true&theme=default&hide_border=true">
       <img
       alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=aitji&show_icons=true&theme=default">
+      src="https://github-readme-stats.vercel.app/api?username=aitji&show_icons=true&theme=default&hide_border=true">
     </picture>
   </div>
 </div>
@@ -169,3 +156,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aitji/aitji/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aitji/aitji/output/github-snake.svg" />
 </picture>
+
+<br>
+
+<div align="center">
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=29,27,16,10,9,5,0&text=%20&reversal=true&section=footer&textBg=false&desc=if%20interesting%20to%20work%20with%20please%20contact%20on%20email%20or%20discord&descSize=25&fontAlignY=40&descAlignY=78">
+  </picture>
+</div>
