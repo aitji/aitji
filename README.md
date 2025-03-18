@@ -161,6 +161,6 @@
 
 <div align="center">
   <picture>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=29,27,16,10,9,5,0&text=%20&reversal=true&section=footer&textBg=false&desc=if%20interesting%20to%20work%20with%20please%20contact%20on%20email%20or%20discord&descSize=20&fontAlignY=40&descAlignY=78">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=29,27,16,10,9,5,0&text=%20&reversal=true&section=footer&textBg=false&desc=goodbye&descSize=20&fontAlignY=40&descAlignY=78">
   </picture>
 </div>
