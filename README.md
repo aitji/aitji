@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=0,5,9,10,16,27,29&text=@aitji&reversal=false&section=header&textBg=false&desc=hello%20i'm%20aitji%2C%20a%20full-stack%20software%20developer&descSize=25&fontAlignY=40&descAlignY=58">
+  <a href="#img"><img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=0,5,9,10,16,27,29&text=@aitji&reversal=false&section=header&textBg=false&desc=hello%20i'm%20aitji%2C%20a%20full-stack%20software%20developer&descSize=25&fontAlignY=40&descAlignY=58"></a>
 </div>
 
 <div align="center">
@@ -133,10 +133,10 @@
 
 <div align="center">
   <h2>statistics...</h2>
-  <img src="https://count.getloli.com/@aitji?name=aitji&theme=rule34&padding=7&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto"><br> <!-- o.O nothing to see here -->
+  <a href="#img"><img src="https://count.getloli.com/@aitji?name=aitji&theme=rule34&padding=7&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto"></a><br> <!-- o.O nothing to see here -->
   <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=aitji&theme=darkhub&no-frame=true&row=1" alt="aitji's trophies" />
-    <img src="https://streak-stats.demolab.com?user=aitji&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=900&card_height=300" alt="aitji's gitHub streak" />
+    <a href="#img"><img src="https://github-profile-trophy.vercel.app/?username=aitji&theme=darkhub&no-frame=true&row=1" alt="aitji's trophies" /></a>
+    <a href="#img"><img src="https://streak-stats.demolab.com?user=aitji&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=900&card_height=300" alt="aitji's gitHub streak" /></a>
   </div>
 </div>
 
