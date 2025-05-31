@@ -1,3 +1,5 @@
+<meta name="description" content="aitji.is-a.dev – addon hub, where you can download all my addons for free! Check out my latest creations and stay updated">
+
 <div align="center">
   <a href="#aitji"><picture><img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=0,5,9,10,16,27,29&text=@aitji&reversal=false&section=header&textBg=false&desc=hello%20i'm%20aitji%2C%20a%20full-stack%20software%20developer&descSize=25&fontAlignY=40&descAlignY=58"></picture></a>
 </div>
