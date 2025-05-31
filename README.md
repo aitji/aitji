@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#img"><img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=0,5,9,10,16,27,29&text=@aitji&reversal=false&section=header&textBg=false&desc=hello%20i'm%20aitji%2C%20a%20full-stack%20software%20developer&descSize=25&fontAlignY=40&descAlignY=58"></a>
+  <a href="#aitji"><picture><img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=0,5,9,10,16,27,29&text=@aitji&reversal=false&section=header&textBg=false&desc=hello%20i'm%20aitji%2C%20a%20full-stack%20software%20developer&descSize=25&fontAlignY=40&descAlignY=58"></picture></a>
 </div>
 
 <div align="center">
@@ -58,19 +58,19 @@
 <div align="left">
   <h2>languages & tech stacks...</h2>
   <div>
-    <a href="#"><img src="https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/javaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></a>
-    <a href="#"><img src="https://img.shields.io/badge/typeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></a>
-    <a href="#"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/powerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"></a>
-    <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/visual%20studio%20code-0078d7.svg?logo=vsc&logoColor=white"></a>
+    <a href="#"><picture><img src="https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html5&logoColor=white"></picture></a>
+    <a href="#"><picture><img src="https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css3&logoColor=white"></picture></a>
+    <a href="#"><picture><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"></picture></a>
+    <a href="#"><picture><img src="https://img.shields.io/badge/javaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"></picture></a>
+    <a href="#"><picture><img src="https://img.shields.io/badge/typeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"></picture></a>
+    <a href="#"><picture><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></picture></a>
+    <a href="#"><picture><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white"></picture></a>
+    <a href="#"><picture><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"></picture></a>
+    <a href="#"><picture><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white"></picture></a>
+    <a href="#"><picture><img src="https://img.shields.io/badge/powerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white"></picture></a>
+    <a href="#"><picture><img src="https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white"></picture></a>
+    <a href="#"><picture><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"></picture></a>
+    <a href="#"><picture><img src="https://custom-icon-badges.demolab.com/badge/visual%20studio%20code-0078d7.svg?logo=vsc&logoColor=white"></picture></a>
   </div>
 </div>
 
@@ -78,13 +78,13 @@
 
 <div align="right">
   <h2>social...</h2>
-  <a href="https://www.youtube.com/@aitji."><img src="https://img.shields.io/badge/youTube-%23e8273d.svg?style=flat&logo=youtube&logoColor=white"></a>
-  <a href="https://discord.com/users/660742557009051659"><img src="https://img.shields.io/badge/discord-%237289DA.svg?style=flat&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/aitji"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/aitji/"><img src="https://custom-icon-badges.demolab.com/badge/linkedin-0A66C2?logo=linkedin-white&logoColor=fff"></a>
-  <a href="https://twitch.tv/aitji"><img src="https://img.shields.io/badge/twitch-%239146FF.svg?logo=Twitch&logoColor=white"></a>
-  <a href="https://x.com/aitji_"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"></a>
-  <a href="https://www.reddit.com/user/aitji"><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?logo=reddit&logoColor=white"></a>
+  <a href="https://www.youtube.com/@aitji."><picture><img src="https://img.shields.io/badge/youTube-%23e8273d.svg?style=flat&logo=youtube&logoColor=white"></picture></a>
+  <a href="https://discord.com/users/660742557009051659"><picture><img src="https://img.shields.io/badge/discord-%237289DA.svg?style=flat&logo=discord&logoColor=white"></picture></a>
+  <a href="https://github.com/aitji"><picture><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"></picture></a>
+  <a href="https://www.linkedin.com/in/aitji/"><picture><img src="https://custom-icon-badges.demolab.com/badge/linkedin-0A66C2?logo=linkedin-white&logoColor=fff"></picture></a>
+  <a href="https://twitch.tv/aitji"><picture><img src="https://img.shields.io/badge/twitch-%239146FF.svg?logo=Twitch&logoColor=white"></picture></a>
+  <a href="https://x.com/aitji_"><picture><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"></picture></a>
+  <a href="https://www.reddit.com/user/aitji"><picture><img src="https://img.shields.io/badge/reddit-%23FF4500.svg?logo=reddit&logoColor=white"></picture></a>
 </div>
 
 <br>
@@ -133,23 +133,22 @@
 
 <div align="center">
   <h2>statistics...</h2>
-  <a href="#img"><img src="https://count.getloli.com/@aitji?name=aitji&theme=rule34&padding=7&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto"></a><br> <!-- o.O nothing to see here -->
+  <a href="#aitji"><picture><img src="https://count.getloli.com/@aitji?name=aitji&theme=rule34&padding=7&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto"></picture></a><br> <!-- o.O nothing to see here -->
   <div>
-    <a href="#img"><img src="https://github-profile-trophy.vercel.app/?username=aitji&theme=darkhub&no-frame=true&row=1" alt="aitji's trophies" /></a>
-    <a href="#img"><img src="https://streak-stats.demolab.com?user=aitji&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=900&card_height=300" alt="aitji's gitHub streak" /></a>
+    <a href="#aitji"><picture><img src="https://github-profile-trophy.vercel.app/?username=aitji&theme=darkhub&no-frame=true&row=1" alt="aitji's trophies" /></picture></a>
+    <a href="#aitji"><picture><img src="https://streak-stats.demolab.com?user=aitji&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=900&card_height=300" alt="aitji's gitHub streak" /></picture></a>
   </div>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aitji/aitji/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aitji/aitji/output/github-snake.svg" />
-  <img alt="aitji-github-snake" src="https://raw.githubusercontent.com/aitji/aitji/output/github-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aitji/aitji/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aitji/aitji/output/github-snake.svg" />
+    <img alt="aitji-github-snake" src="https://raw.githubusercontent.com/aitji/aitji/output/github-snake.svg" />
 </picture>
+</div>
 
 <br>
 
 <div align="center">
-  <picture>
+  <a href="#aitji"><picture>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,5,9,10,16,27,29&text=prefer%20contact%20on%20email&reversal=true&section=footer&textBg=false&descSize=20&fontAlignY=62">
-  </picture>
+  </picture></a>
 </div>
