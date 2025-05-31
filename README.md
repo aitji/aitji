@@ -28,8 +28,8 @@
         media="(prefers-color-scheme: light)"
         srcset="https://img.shields.io/badge/addonhub.online-2c0101?style=flat&label=Host&logo=website&logoColor=610761&color=800080&labelColor=ffffff"> -->
       <img
-        alt="AddonHub Badge"
-        src="https://img.shields.io/badge/addonhub.online-2c0101?style=flat&label=Host&logo=website&logoColor=ffffff&color=2c0101&labelColor=571f1f">
+        alt="aitji.is-a.dev Badge"
+        src="https://img.shields.io/badge/aitji.is-a.dev-2c0101?style=flat&label=Host&logo=website&logoColor=ffffff&color=2c0101&labelColor=571f1f">
     </picture>
   </a>
 
