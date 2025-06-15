@@ -123,8 +123,8 @@
         <td>Discontinued</td>
       </tr>
       <tr>
-        <td><a href="https://aitji.is-a.dev/aitji">draft portfolio</a></td>
-        <td>a simple draft portfolio site didn't do anything right-now.</td>
+        <td><a href="https://tpsc68.ddns.net</a></td>
+        <td>a thatako phitthayakhom student council year 2025</td>
         <td>Active</td>
       </tr>
     </tbody>
