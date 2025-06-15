@@ -93,42 +93,43 @@
 
 <div align="left">
   <h2>project...</h2>
-  <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">
-    <thead>
-      <tr>
-        <th>Projects</th>
-        <th>Description</th>
-        <th>Status</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://tpform.vercel.app/">pr-thatako</a></td>
-        <td>public relations for thatako phitthayakhom school. maintenance until 2027.</td>
-        <td>Active</td>
-      </tr>
-      <tr>
-        <td><a href="#">field trip 4/1 (2024)</a></td>
-        <td>song requests for the 4/1 field trip.</td>
-        <td>Inactive</td>
-      </tr>
-      <tr>
-        <td><a href="https://aitji.is-a.dev/">addon hub</a></td>
-        <td>share my addons with my audience.</td>
-        <td>Active</td>
-      </tr>
-      <tr>
-        <td><a href="https://cmgmmo.vercel.app/">cmgmmo</a></td>
-        <td>discontinued minecraft server site.</td>
-        <td>Discontinued</td>
-      </tr>
-      <tr>
-        <td><a href="https://tpsc68.ddns.net</a></td>
-        <td>a thatako phitthayakhom student council year 2025</td>
-        <td>Active</td>
-      </tr>
-    </tbody>
-  </table>
+
+<table>
+  <thead>
+    <tr>
+      <th>project</th>
+      <th>description</th>
+      <th>status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://tpform.vercel.app/">pr-thatako</a></td>
+      <td>public relations for thatako phitthayakhom school. maintenance until 2027.</td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td><a href="#">field trip 4/1 (2024)</a></td>
+      <td>song requests for the 4/1 field trip.</td>
+      <td>Inactive</td>
+    </tr>
+    <tr>
+      <td><a href="https://aitji.is-a.dev/">addon hub</a></td>
+      <td>share my addons with my audience.</td>
+      <td>Active</td>
+    </tr>
+    <tr>
+      <td><a href="https://cmgmmo.vercel.app/">cmgmmo</a></td>
+      <td>discontinued minecraft server site.</td>
+      <td>Discontinued</td>
+    </tr>
+    <tr>
+      <td><a href="https://tpsc68.ddns.net">tpsc68</a></td>
+      <td>a thatako phitthayakhom student council site (year 2025).</td>
+      <td>Active</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 <br>
