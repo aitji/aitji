@@ -1,4 +1,5 @@
 <meta name="description" content="aitji.is-a.dev – addon hub, where you can download all my addons for free! check out my latest creations and stay updated.">
+<link rel="canonical" href="https://aitji.is-a.dev" />
 
 <div align="center">
   <a href="#aitji" title="@aitji hello i'm aitji, a full-stack software developer">
@@ -101,7 +102,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://tpform.vercel.app/">pr-thatako</a></td>
+        <td><a href="https://pr.thatako.ac.th">pr-thatako</a></td>
         <td>public relations for thatako phitthayakhom school. maintenance until 2027.</td>
         <td>active</td>
       </tr>
@@ -121,7 +122,7 @@
         <td>discontinued</td>
       </tr>
       <tr>
-        <td><a href="https://tpsc68.ddns.net">tpsc68</a></td>
+        <td><a href="https://thatako-council.com">thatako-council</a></td>
         <td>a thatako phitthayakhom student council site (year 2025).</td>
         <td>active</td>
       </tr>
