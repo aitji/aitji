@@ -143,14 +143,6 @@
     </picture>
   </a>
   <div>
-    <a href="#aitji" title="github trophies">
-      <picture>
-        <img src="https://github-profile-trophy.vercel.app/?username=aitji&theme=darkhub&no-frame=true&row=1"
-          alt="github trophy"
-          loading="lazy"
-          decoding="async">
-      </picture>
-    </a>
     <a href="#aitji" title="github streak stats">
       <picture>
         <img src="https://streak-stats.demolab.com?user=aitji&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=900&card_height=300"
