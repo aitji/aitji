@@ -102,7 +102,12 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://pr.thatako.ac.th">pr-thatako</a></td>
+        <td><a href="https://thatako.net">thatako.net</a></td>
+        <td>not really plan but it up.</td>
+        <td>active</td>
+      </tr>
+      <tr>
+        <td><a href="https://pr.thatako.net">pr.thatako</a></td>
         <td>public relations for thatako phitthayakhom school. maintenance until 2027.</td>
         <td>active</td>
       </tr>
