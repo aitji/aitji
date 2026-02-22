@@ -32,7 +32,7 @@ jobs:
           MONTHS=$(( REMAINING / 30 ))
           DAYS=$(( REMAINING % 30 ))
 
-          TEXT="${YEARS}y ${MONTHS}m ${DAYS}d"
+          TEXT="``${YEARS}y ${MONTHS}m ${DAYS}d``"
 
           awk -v text="$TEXT" '
             /<!--START_SECTION:age-->/ { print; print text; skip=1; next }
