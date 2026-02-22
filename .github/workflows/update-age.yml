@@ -32,13 +32,15 @@ jobs:
           MONTHS=$(( REMAINING / 30 ))
           DAYS=$(( REMAINING % 30 ))
 
-          TEXT="${YEARS}y ${MONTHS}m ${DAYS}d"
+          TEXT="\`\`${YEARS}y ${MONTHS}m ${DAYS}d\`\`"
 
-          awk -v text="$TEXT" '
-            /<!--START_SECTION:age-->/ { print; print "\n" text "\n"; skip=1; next }
-            /<!--END_SECTION:age-->/ { skip=0 }
-            !skip
-          ' README.md > README.tmp && mv README.tmp README.md
+          python3 -c "
+          import re, sys
+          content = open('README.md').read()
+          new_block = '<!--START_SECTION:age-->\n\n${TEXT}\n      <!--END_SECTION:age-->'
+          content = re.sub(r'<!--START_SECTION:age-->.*?<!--END_SECTION:age-->', new_block, content, flags=re.DOTALL)
+          open('README.md', 'w').write(content)
+          "
 
           echo "Updated age to: $TEXT"
 
