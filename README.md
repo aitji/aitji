@@ -143,10 +143,8 @@
     <p>
       <!--START_SECTION:age-->
 
-3y 11m 26d
-
+``loading...``
       <!--END_SECTION:age-->
-    </p>
   </div>
 
   <a href="#aitji" title="github visit counter">
