@@ -143,7 +143,7 @@
     <p>
       <!--START_SECTION:age-->
 
-``loading..``
+3y 11m 26d
 
       <!--END_SECTION:age-->
     </p>
