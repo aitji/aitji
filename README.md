@@ -139,6 +139,15 @@
 
 <div align="center">
   <h2>statistics...</h2>
+  <div align="center">
+    <p>
+      account age:
+      <!--START_SECTION:age-->
+      loading...
+      <!--END_SECTION:age-->
+    </p>
+  </div>
+
   <a href="#aitji" title="github visit counter">
     <picture>
       <img src="https://count.getloli.com/@aitji?name=aitji&theme=rule34&padding=7&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto"
