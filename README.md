@@ -141,9 +141,10 @@
   <h2>statistics...</h2>
   <div align="center">
     <p>
-      account age:
       <!--START_SECTION:age-->
-3y 11m 26d
+
+``loading..``
+
       <!--END_SECTION:age-->
     </p>
   </div>
