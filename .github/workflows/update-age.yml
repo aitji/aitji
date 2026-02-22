@@ -1,0 +1,52 @@
+name: update-account-age
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate and update account age
+        env:
+          # my create date according to "https://api.github.com/users/aitji"
+          CREATED_AT: "2022-03-04T07:35:36Z"
+        run: |
+          set -euo pipefail
+
+          NOW=$(date -u +%s)
+          CREATED_TS=$(date -u -d "$CREATED_AT" +%s)
+
+          TOTAL_DAYS=$(( (NOW - CREATED_TS) / 86400 ))
+
+          # Calculate years, months, days
+          YEARS=$(( TOTAL_DAYS / 365 ))
+          REMAINING=$(( TOTAL_DAYS % 365 ))
+          MONTHS=$(( REMAINING / 30 ))
+          DAYS=$(( REMAINING % 30 ))
+
+          TEXT="${YEARS}y ${MONTHS}m ${DAYS}d"
+
+          awk -v text="$TEXT" '
+            /<!--START_SECTION:age-->/ { print; print text; skip=1; next }
+            /<!--END_SECTION:age-->/ { skip=0 }
+            !skip
+          ' README.md > README.tmp && mv README.tmp README.md
+
+          echo "Updated age to: $TEXT"
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: update account age [skip ci]"
+          git push
