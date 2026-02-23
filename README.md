@@ -181,7 +181,7 @@
   <a href="#aitji" title="email preferred">
     <picture>
       <img
-        src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,5,9,10,16,27,29&text=prefer%20contact%20on%20email&reversal=true&section=footer&textBg=false&descSize=20&fontAlignY=62"
+        src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,5,9,10,16,27,29&text=preferred%20contact%20on%20email&reversal=true&section=footer&textBg=false&descSize=20&fontAlignY=62"
         alt="footer banner"
         loading="lazy"
         decoding="async">
