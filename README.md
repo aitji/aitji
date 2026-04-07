@@ -1,5 +1,5 @@
-<meta name="description" content="aitji.is-a.dev – addon hub, where you can download all my addons for free! check out my latest creations and stay updated.">
-<link rel="canonical" href="https://aitji.is-a.dev" />
+<meta name="description" content="aitji.xyz – addon hub, where you can download all my addons for free! check out my latest creations and stay updated.">
+<link rel="canonical" href="https://aitji.xyz" />
 
 <div align="center">
   <a href="#aitji" title="@aitji hello i'm aitji, a full-stack software developer">
@@ -27,7 +27,7 @@
   </a>
 
   <!-- addonhub badge -->
-  <a href="https://aitji.is-a.dev" title="visit my addon hub">
+  <a href="https://aitji.is-a.dev" title="visit still website">
     <picture>
       <img
         src="./cdn.svg/hero/host.svg"
@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <p>i'm <a title="@aitji's website" href="https://aitji.is-a.dev">@aitji</a>, a full-stack developer who like the silly sand block game<sub>bedrock edition</sub></p>
+  <p>i'm <a title="@aitji's website" href="https://aitji.xyz">@aitji</a>, a full-stack developer who like the silly sand block game<sub>bedrock edition</sub></p>
 </div>
 
 <br>
