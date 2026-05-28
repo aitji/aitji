@@ -1,7 +1,7 @@
 <link rel="canonical" href="https://aitji.xyz" />
 
 <div align="center">
-  <a href="https://aitji.xyz" title="@aitji hello i'm aitji, a full-stack software developer">
+  <a href="https://aitji.xyz" target="_blank" rel="noopener noreferrer" title="@aitji hello i'm aitji, a full-stack software developer">
     <picture>
       <img
         src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=0,5,9,10,16,27,29&text=@aitji&reversal=false&section=header&textBg=false&desc=hello%20i'm%20aitji%2C%20a%20full-stack%20software%20developer&descSize=25&fontAlignY=40&descAlignY=58"
@@ -15,7 +15,7 @@
 
 <div align="center">
   <!-- discord badge -->
-  <a href="https://aitji.is-a.dev/discord" title="join my discord">
+  <a href="https://aitji.is-a.dev/discord" target="_blank" rel="noopener noreferrer" title="join my discord">
     <picture>
       <img
         src="https://img.shields.io/discord/1112527603698511942.svg?style=flat&label=@aitji&logo=discord&logoColor=ffffff&color=2c0101&labelColor=571f1f"
@@ -26,7 +26,7 @@
   </a>
 
   <!-- addonhub badge -->
-  <a href="https://aitji.is-a.dev" title="visit still website">
+  <a href="https://aitji.is-a.dev" target="_blank" rel="noopener noreferrer" title="visit still website">
     <picture>
       <img
         src="./cdn.svg/hero/host.svg"
@@ -37,7 +37,7 @@
   </a>
 
   <!-- email badge -->
-  <a href="mailto:aitji@duck.com" title="send me an email">
+  <a href="mailto:aitji@duck.com" target="_blank" rel="noopener noreferrer" title="send me an email">
     <picture>
       <img
         src="./cdn.svg/hero/email.svg"
@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <p>i'm <a title="@aitji's website" href="https://aitji.xyz">@aitji</a>, a full-stack developer who like the silly sand block game<sub>bedrock edition</sub></p>
+  <p>i'm <a title="@aitji's website" target="_blank" rel="noopener noreferrer" href="https://aitji.xyz">@aitji</a>, a full-stack developer who like the silly sand block game<sub>bedrock edition</sub></p>
 </div>
 
 <br>
@@ -57,19 +57,19 @@
 <div align="left">
   <h2>languages & tech stacks...</h2>
   <div>
-    <a title="html" href="https://en.wikipedia.org/wiki/HTML"><picture><img src="./cdn.svg/lang/html.svg" alt="html" loading="lazy" decoding="async"></picture></a>
-    <a title="css" href="https://en.wikipedia.org/wiki/CSS"><picture><img src="./cdn.svg/lang/css.svg" alt="css" loading="lazy" decoding="async"></picture></a>
-    <a title="bootstrap" href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><picture><img src="./cdn.svg/lang/boostrap.svg" alt="bootstrap" loading="lazy" decoding="async"></picture></a>
-    <a title="javascript" href="https://en.wikipedia.org/wiki/JavaScript"><picture><img src="./cdn.svg/lang/javascript.svg" alt="javascript" loading="lazy" decoding="async"></picture></a>
-    <a title="typescript" href="https://en.wikipedia.org/wiki/TypeScript"><picture><img src="./cdn.svg/lang/typescript.svg" alt="typescript" loading="lazy" decoding="async"></picture></a>
-    <a title="python" href="https://en.wikipedia.org/wiki/Python_(programming_language)"><picture><img src="./cdn.svg/lang/python.svg" alt="python" loading="lazy" decoding="async"></picture></a>
-    <a title="php" href="https://en.wikipedia.org/wiki/PHP"><picture><img src="./cdn.svg/lang/php.svg" alt="php" loading="lazy" decoding="async"></picture></a>
-    <a title="nodejs" href="https://en.wikipedia.org/wiki/Node.js"><picture><img src="./cdn.svg/lang/nodejs.svg" alt="nodejs" loading="lazy" decoding="async"></picture></a>
-    <a title="markdown" href="https://en.wikipedia.org/wiki/Markdown"><picture><img src="./cdn.svg/lang/markdown.svg" alt="markdown" loading="lazy" decoding="async"></picture></a>
-    <a title="powershell" href="#"><picture><img src="./cdn.svg/lang/ps.svg" alt="powershell" loading="lazy" decoding="async"></picture></a>
-    <a title="bash" href="https://en.wikipedia.org/wiki/PowerShell"><picture><img src="./cdn.svg/lang/bash.svg" alt="bash" loading="lazy" decoding="async"></picture></a>
-    <a title="github" href="https://en.wikipedia.org/wiki/GitHub"><picture><img src="./cdn.svg/lang/github.svg" alt="github" loading="lazy" decoding="async"></picture></a>
-    <a title="vscode" href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><picture><img src="./cdn.svg/lang/vscode.svg" alt="vscode" loading="lazy" decoding="async"></picture></a>
+    <a title="html" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/HTML"><picture><img src="./cdn.svg/lang/html.svg" alt="html" loading="lazy" decoding="async"></picture></a>
+    <a title="css" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/CSS"><picture><img src="./cdn.svg/lang/css.svg" alt="css" loading="lazy" decoding="async"></picture></a>
+    <a title="bootstrap" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><picture><img src="./cdn.svg/lang/boostrap.svg" alt="bootstrap" loading="lazy" decoding="async"></picture></a>
+    <a title="javascript" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/JavaScript"><picture><img src="./cdn.svg/lang/javascript.svg" alt="javascript" loading="lazy" decoding="async"></picture></a>
+    <a title="typescript" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/TypeScript"><picture><img src="./cdn.svg/lang/typescript.svg" alt="typescript" loading="lazy" decoding="async"></picture></a>
+    <a title="python" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Python_(programming_language)"><picture><img src="./cdn.svg/lang/python.svg" alt="python" loading="lazy" decoding="async"></picture></a>
+    <a title="php" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/PHP"><picture><img src="./cdn.svg/lang/php.svg" alt="php" loading="lazy" decoding="async"></picture></a>
+    <a title="nodejs" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Node.js"><picture><img src="./cdn.svg/lang/nodejs.svg" alt="nodejs" loading="lazy" decoding="async"></picture></a>
+    <a title="markdown" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Markdown"><picture><img src="./cdn.svg/lang/markdown.svg" alt="markdown" loading="lazy" decoding="async"></picture></a>
+    <a title="powershell" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/PowerShell"><picture><img src="./cdn.svg/lang/ps.svg" alt="powershell" loading="lazy" decoding="async"></picture></a>
+    <a title="bash" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/PowerShell"><picture><img src="./cdn.svg/lang/bash.svg" alt="bash" loading="lazy" decoding="async"></picture></a>
+    <a title="github" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/GitHub"><picture><img src="./cdn.svg/lang/github.svg" alt="github" loading="lazy" decoding="async"></picture></a>
+    <a title="vscode" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><picture><img src="./cdn.svg/lang/vscode.svg" alt="vscode" loading="lazy" decoding="async"></picture></a>
   </div>
 </div>
 
@@ -77,13 +77,13 @@
 
 <div align="right">
   <h2>social...</h2>
-  <a title="youtube" href="https://www.youtube.com/@aitji-gamer"><picture><img src="./cdn.svg/social/yt.svg" alt="youtube" loading="lazy" decoding="async"></picture></a>
-  <a title="discord profile" href="https://discord.com/users/660742557009051659"><picture><img src="./cdn.svg/social/discord.svg" alt="discord" loading="lazy" decoding="async"></picture></a>
-  <a title="github" href="https://github.com/aitji"><picture><img src="./cdn.svg/lang/github.svg" alt="github" loading="lazy" decoding="async"></picture></a>
-  <a title="linkedin" href="https://www.linkedin.com/in/aitji/"><picture><img src="./cdn.svg/social/linkedin.svg" alt="linkedin" loading="lazy" decoding="async"></picture></a>
-  <a title="twitch" href="https://twitch.tv/aitji"><picture><img src="./cdn.svg/social/twitch.svg" alt="twitch" loading="lazy" decoding="async"></picture></a>
-  <a title="x / twitter" href="https://x.com/aitji_"><picture><img src="./cdn.svg/social/X.svg" alt="twitter/x" loading="lazy" decoding="async"></picture></a>
-  <a title="reddit" href="https://www.reddit.com/user/aitji"><picture><img src="./cdn.svg/social/reddit.svg" alt="reddit" loading="lazy" decoding="async"></picture></a>
+  <a target="_blank" rel="noopener noreferrer" title="youtube" href="https://www.youtube.com/@aitji-gamer"><picture><img src="./cdn.svg/social/yt.svg" alt="youtube" loading="lazy" decoding="async"></picture></a>
+  <a target="_blank" rel="noopener noreferrer" title="discord profile" href="https://discord.com/users/660742557009051659"><picture><img src="./cdn.svg/social/discord.svg" alt="discord" loading="lazy" decoding="async"></picture></a>
+  <a target="_blank" rel="noopener noreferrer"title="github" href="https://github.com/aitji"><picture><img src="./cdn.svg/lang/github.svg" alt="github" loading="lazy" decoding="async"></picture></a>
+  <a target="_blank" rel="noopener noreferrer" title="linkedin" href="https://www.linkedin.com/in/aitji/"><picture><img src="./cdn.svg/social/linkedin.svg" alt="linkedin" loading="lazy" decoding="async"></picture></a>
+  <a target="_blank" rel="noopener noreferrer" title="twitch" href="https://twitch.tv/aitji"><picture><img src="./cdn.svg/social/twitch.svg" alt="twitch" loading="lazy" decoding="async"></picture></a>
+  <a target="_blank" rel="noopener noreferrer" title="x / twitter" href="https://x.com/aitji_"><picture><img src="./cdn.svg/social/X.svg" alt="twitter/x" loading="lazy" decoding="async"></picture></a>
+  <a target="_blank" rel="noopener noreferrer" title="reddit" href="https://www.reddit.com/user/aitji"><picture><img src="./cdn.svg/social/reddit.svg" alt="reddit" loading="lazy" decoding="async"></picture></a>
 </div>
 
 <br>
@@ -101,17 +101,17 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://aitji.xyz">aitji.xyz</a></td>
+        <td><a target="_blank" rel="noopener noreferrer" href="https://aitji.xyz">aitji.xyz</a></td>
         <td>it's me</td>
         <td>active</td>
       </tr>
       <tr>
-        <td><a href="https://thatako.net">thatako.net</a></td>
+        <td><a target="_blank" rel="noopener noreferrer" href="https://thatako.net">thatako.net</a></td>
         <td>not really plan but it up.</td>
         <td>active</td>
       </tr>
       <tr>
-        <td><a href="https://pr.thatako.net">pr.thatako</a></td>
+        <td><a target="_blank" rel="noopener noreferrer" href="https://pr.thatako.net">pr.thatako</a></td>
         <td>public relations for thatako phitthayakhom school. maintenance until 2027.</td>
         <td>active</td>
       </tr>
@@ -121,17 +121,17 @@
         <td>inactive</td>
       </tr>
       <tr>
-        <td><a href="https://aitji.is-a.dev/">addon hub</a></td>
+        <td><a target="_blank" rel="noopener noreferrer" href="https://aitji.is-a.dev/">addon hub</a></td>
         <td>share my addons with my audience.</td>
         <td>active</td>
       </tr>
       <tr>
-        <td><a href="https://cmgmmo.vercel.app/">cmgmmo</a></td>
+        <td><a target="_blank" rel="noopener noreferrer" href="https://cmgmmo.vercel.app/">cmgmmo</a></td>
         <td>discontinued minecraft server site.</td>
         <td>discontinued</td>
       </tr>
       <tr>
-        <td><a href="https://thatako-council.com">thatako-council</a></td>
+        <td><a target="_blank" rel="noopener noreferrer" href="https://thatako-council.com">thatako-council</a></td>
         <td>a thatako phitthayakhom student council site (year 2025).</td>
         <td>active</td>
       </tr>
@@ -151,7 +151,7 @@
       <!--END_SECTION:age-->
   </div>
 
-  <a title="github visit counter" href="https://aitji.xyz">
+  <a title="github visit counter" href="https://aitji.xyz" target="_blank" rel="noopener noreferrer">
     <picture>
       <img src="https://count.getloli.com/@aitji?name=aitji&theme=rule34&padding=7&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto"
         alt="visitor counter"
@@ -160,7 +160,7 @@
     </picture>
   </a>
   <div>
-    <a title="github streak stats" href="https://aitji.xyz">
+    <a title="github streak stats" href="https://aitji.xyz" target="_blank" rel="noopener noreferrer">
       <picture>
         <img src="https://streak-stats.demolab.com?user=aitji&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=900&card_height=300"
           alt="github streak"
@@ -182,7 +182,7 @@
 <br>
 
 <div align="center">
-  <a href="mailto:aitji@duck.com" title="email preferred">
+  <a href="mailto:aitji@duck.com" title="email preferred" target="_blank" rel="noopener noreferrer">
     <picture>
       <img
         src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,5,9,10,16,27,29&text=aitji@duck.com&desc=preferred%20contact%20on%20email&descSize=35&section=footer&reversal=true&descAlignY=85&fontAlignY=65"
