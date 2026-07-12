@@ -37,7 +37,7 @@
   </a>
 
   <!-- email badge -->
-  <a href="mailto:aitji@duck.com" target="_blank" rel="noopener noreferrer" title="send me an email">
+  <a href="mailto:me@aitji.xyz" target="_blank" rel="noopener noreferrer" title="send me an email">
     <picture>
       <img
         src="https://cdn.jsdelivr.net/gh/aitji/aitji/cdn.svg/hero/email.svg"
@@ -205,10 +205,10 @@
 <br>
 
 <div align="center">
-  <a href="mailto:aitji@duck.com" title="email preferred" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:me@aitji.xyz" title="email preferred" target="_blank" rel="noopener noreferrer">
     <picture>
       <img
-        src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,5,9,10,16,27,29&text=aitji@duck.com&desc=preferred%20contact%20on%20email&descSize=35&section=footer&reversal=true&descAlignY=85&fontAlignY=65"
+        src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,5,9,10,16,27,29&text=me@aitji.xyz&desc=preferred%20contact%20on%20email&descSize=35&section=footer&reversal=true&descAlignY=85&fontAlignY=65"
         alt="footer banner"
         loading="lazy"
         decoding="async">
