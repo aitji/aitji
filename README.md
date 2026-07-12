@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <p>i'm <abbr title="aitji /it-jee/">@aitji</abbr>, a full-stack developer who like the silly sand block game<sub>bedrock edition</sub></p>
+  <p>i'm <a title="aitji /it-jee/" href="https://aitji.xyz" target="_blank" rel="noopener noreferrer"><abbr title="aitji /it-jee/">@aitji</abbr></a>, a full-stack developer who like the silly sand block game<sub>bedrock edition</sub></p>
 </div>
 
 <br>
@@ -110,10 +110,23 @@
         <td>collection of addons and tools for my audience.</td>
         <td>active</td>
       </tr>
+      <!-- curseforge............ -->
+      <tr>
+        <td align="center" colspan="3"><strong>Curseforge</strong></td>
+      </tr>
+      <tr>
+        <td><a target="_blank" rel="noopener noreferrer" href="https://www.curseforge.com/minecraft-bedrock/addons/quality-of-feature">Quality of Features™</a></td>
+        <td>A Minecraft Bedrock addon that adds small vanilla-friendly features. Each module is configurable through the in-game pack settings panel.</td>
+        <td>active</td>
+      </tr>
+      <tr>
+        <td><a target="_blank" rel="noopener noreferrer" href="https://www.curseforge.com/minecraft-bedrock/addons/chain-of-mining">Chain of Mining™</a></td>
+        <td>Break one block, and chain-mine the whole vein, tree, crop field, or leaf cluster at once.</td>
+        <td>active</td>
+      </tr>
       <!-- thatako............ -->
       <tr>
-        <td align="center" colspan="2"><strong><abbr title="ท่าตะโกพิทยาคม /tʰâː.tà.kōː pʰít.tʰā.jā.kʰōm/ proper noun">Thatako Phitthayakhom</abbr> School</strong></td>
-        <td><a title="thatako.ac.th" target="_blank" rel="noopener noreferrer" href="https://thatako.ac.th">school</a></td>
+        <td align="center" colspan="3"><strong><span title="ท่าตะโกพิทยาคม /tʰâː.tà.kōː pʰít.tʰā.jā.kʰōm/ proper noun"><abbr title="ท่าตะโกพิทยาคม /tʰâː.tà.kōː pʰít.tʰā.jā.kʰōm/ proper noun">Thatako Phitthayakhom</abbr></span> School</strong></td>
       </tr>
       <tr>
         <td><a target="_blank" rel="noopener noreferrer" href="https://thatako.net">thatako.net</a></td>
@@ -136,17 +149,17 @@
       </tr>
       <tr>
         <td><a target="_blank" rel="noopener noreferrer" href="https://n1gh7shadez.vercel.app">n1gh7shadez</a></td>
-        <td>Gaming social profile for <abbr title="n1gh7shadez (/night-shaydz/) is my friend">n1gh7shadez</abbr>, featuring discord integration with voice chat and status sync.</td>
+        <td>Gaming social profile for <span title="n1gh7shadez (/night-shaydz/) is my friend"><abbr title="n1gh7shadez (/night-shaydz/) is my friend">n1gh7shadez</abbr></span>, featuring discord integration with voice chat and status sync.</td>
         <td>active</td>
       </tr>
       <tr>
         <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/encyptAES/JavaPlayer">JavaPlayer</a></td>
-        <td>plugin by <abbr title="encyptAES (/en-SEE A-E-S/) is my friend">encyptAES</abbr> that enables minecraft: java edition clients to connect to pocketmine servers</td>
+        <td>plugin by <span title="encyptAES (/en-SEE A-E-S/) is my friend"><abbr title="encyptAES (/en-SEE A-E-S/) is my friend">encyptAES</abbr></span> that enables minecraft: java edition clients to connect to pocketmine servers</td>
         <td>active</td>
       </tr>
       <tr>
         <td><a target="_blank" rel="noopener noreferrer" href="https://psuwitstdcnclelec25.vercel.app">PSUWIT 2025</a></td>
-        <td>unofficial 2025 student council election results for <abbr title="มอ.วิทยานุสรณ์ PSUWIT (/P-S-U-wit/) (P.S.U. Wittayanusorn)">@PSUWIT</abbr>, featuring candidate details and vote totals. Created by <abbr title="mineners (/my-ners/) is my friend">mineners</abbr>.</td>
+        <td>unofficial 2025 student council election results for <span title="มอ.วิทยานุสรณ์ PSUWIT (/P-S-U-wit/) (P.S.U. Wittayanusorn)"><abbr title="มอ.วิทยานุสรณ์ PSUWIT (/P-S-U-wit/) (P.S.U. Wittayanusorn)">@PSUWIT</abbr></span>, featuring candidate details and vote totals. Created by <span title="mineners (/my-ners/) is my friend"><abbr title="mineners (/my-ners/) is my friend">mineners</abbr></span>.</td>
         <td>inactive</td>
       </tr>
       <!-- Misc............ -->
@@ -155,7 +168,7 @@
       </tr>
       <tr>
         <td><a target="_blank" rel="noopener noreferrer" href="https://cmgmmo.vercel.app">cmgmmo</a></td>
-        <td>minecraft server under <abbr title="graduated youtuber whose teaching minecraft command">CMG Element CH</abbr>.<sup><a href="https://www.youtube.com/@cmgelementch1197">[yt]</a></sup></td>
+        <td>minecraft server under <span title="graduated youtuber whose teaching minecraft command"><abbr title="graduated youtuber whose teaching minecraft command"></span>CMG Element CH</abbr>.<sup><a href="https://www.youtube.com/@cmgelementch1197">[yt]</a></sup></td>
         <td>discontinued</td>
       </tr>
     </tbody>
