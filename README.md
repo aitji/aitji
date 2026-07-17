@@ -148,7 +148,7 @@
         <td colspan="3"><strong>Co-Contributing</strong></td>
       </tr>
       <tr>
-        <td><a target="_blank" rel="noopener noreferrer" href="https://n1gh7shadez.vercel.app">n1gh7shadez</a></td>
+        <td><a target="_blank" rel="noopener noreferrer" href="https://n1gh7shadez.aitji.xyz">n1gh7shadez</a></td>
         <td>Gaming social profile for <span title="n1gh7shadez (/night-shaydz/) is my friend"><abbr title="n1gh7shadez (/night-shaydz/) is my friend">n1gh7shadez</abbr></span>, featuring discord integration with voice chat and status sync.</td>
         <td>active</td>
       </tr>
