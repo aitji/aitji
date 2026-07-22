@@ -6,7 +6,7 @@
       <img
         src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&customColorList=0,5,9,10,16,27,29&text=@aitji&reversal=false&section=header&textBg=false&desc=hello%20i'm%20aitji%2C%20a%20full-stack%20software%20developer&descSize=25&fontAlignY=40&descAlignY=58"
         alt="@aitji github header"
-        title="@aitji github profile banner"
+        title="@aitji github profile banner say @aitji, hello i'm aitji a full-stack software developer"
         loading="lazy"
         decoding="async">
     </picture>
@@ -15,11 +15,11 @@
 
 <div align="center">
   <!-- discord badge -->
-  <a href="https://aitji.is-a.dev/discord" target="_blank" rel="noopener noreferrer" title="join my discord">
+  <a href="https://aitji.xyz/discord" target="_blank" rel="noopener noreferrer" title="join my discord">
     <picture>
       <img
         src="https://img.shields.io/discord/1112527603698511942.svg?style=flat&label=@aitji&logo=discord&logoColor=ffffff&color=2c0101&labelColor=571f1f"
-        alt="discord invite badge"
+        alt="aitji discord invitation as aitji.xyz/discord"
         loading="lazy"
         decoding="async">
     </picture>
@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <p>i'm <a title="aitji /it-jee/" href="https://aitji.xyz" target="_blank" rel="noopener noreferrer"><abbr title="aitji /it-jee/">@aitji</abbr></a>, a full-stack developer who like the silly sand block game<sub>bedrock edition</sub></p>
+  <p>i'm $${\color{#c8496a}\textsf{aitji}}$$, a full-stack developer who like the silly sand block game<sub> bedrock edition</sub></p>
 </div>
 
 <br>
@@ -102,7 +102,7 @@
     <tbody>
       <tr>
         <td><a target="_blank" rel="noopener noreferrer" href="https://aitji.xyz">aitji.xyz</a></td>
-        <td>it's me</td>
+        <td>it's $${\color{#c8496a}\textsf{me}}$$</td>
         <td>active</td>
       </tr>
       <tr>
@@ -149,27 +149,27 @@
       </tr>
       <tr>
         <td><a target="_blank" rel="noopener noreferrer" href="https://n1gh7shadez.aitji.xyz">n1gh7shadez</a></td>
-        <td>Gaming social profile for <span title="n1gh7shadez (/night-shaydz/) is my friend"><abbr title="n1gh7shadez (/night-shaydz/) is my friend">n1gh7shadez</abbr></span>, featuring discord integration with voice chat and status sync.</td>
+        <td>Gaming social profile for <span title="n1gh7shadez (/night-shaydz/) is my friend"><abbr title="n1gh7shadez (/night-shaydz/) is my friend">$${\color{#2862ff}\textsf{n1gh7shadez}}$$</abbr></span>, featuring discord integration with voice chat and status sync.</td>
         <td>active</td>
       </tr>
       <tr>
         <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/encyptAES/JavaPlayer">JavaPlayer</a></td>
-        <td>plugin by <span title="encyptAES (/en-SEE A-E-S/) is my friend"><abbr title="encyptAES (/en-SEE A-E-S/) is my friend">encyptAES</abbr></span> that enables minecraft: java edition clients to connect to pocketmine servers</td>
+        <td>plugin by <span title="encyptAES (/en-SEE A-E-S/) is my friend"><abbr title="encyptAES (/en-SEE A-E-S/) is my friend">$${\color{#ff8041}\textsf{encyptAES}}$$</abbr></span> that enables minecraft: java edition clients to connect to pocketmine servers</td>
         <td>active</td>
       </tr>
       <tr>
         <td><a target="_blank" rel="noopener noreferrer" href="https://psuwitstdcnclelec25.vercel.app">PSUWIT 2025</a></td>
-        <td>unofficial 2025 student council election results for <span title="มอ.วิทยานุสรณ์ PSUWIT (/P-S-U-wit/) (P.S.U. Wittayanusorn)"><abbr title="มอ.วิทยานุสรณ์ PSUWIT (/P-S-U-wit/) (P.S.U. Wittayanusorn)">@PSUWIT</abbr></span>, featuring candidate details and vote totals. Created by <span title="mineners (/my-ners/) is my friend"><abbr title="mineners (/my-ners/) is my friend">mineners</abbr></span>.</td>
-        <td>inactive</td>
+        <td>unofficial 2025 student council election results for <span title="มอ.วิทยานุสรณ์ PSUWIT (/P-S-U-wit/) (P.S.U. Wittayanusorn)"><abbr title="มอ.วิทยานุสรณ์ PSUWIT (/P-S-U-wit/) (P.S.U. Wittayanusorn)">@PSUWIT</abbr></span>, featuring candidate details and vote totals. Created by <span title="mineners (/my-ners/) is my friend"><abbr title="mineners (/my-ners/) is my friend">$${\color{#2aea2e}\textsf{mineners}}$$</abbr></span>.</td>
+        <td>$${\color{#d3d3d3}\textsf{inactive}}$$</td>
       </tr>
       <!-- Misc............ -->
       <tr align="center">
         <td colspan="3"><strong>Miscellaneous</strong></td>
       </tr>
       <tr>
-        <td><a target="_blank" rel="noopener noreferrer" href="https://cmgmmo.vercel.app">cmgmmo</a></td>
-        <td>minecraft server under <span title="graduated youtuber whose teaching minecraft command"><abbr title="graduated youtuber whose teaching minecraft command"></span>CMG Element CH</abbr>.<sup><a href="https://www.youtube.com/@cmgelementch1197">[yt]</a></sup></td>
-        <td>discontinued</td>
+        <td>$${\color{#efca01}\textsf{CMGMMO}}$$</td>
+        <td>minecraft server under <span title="graduated youtuber whose teaching minecraft command"><abbr title="graduated youtuber whose teaching minecraft command"></span>$${\color{#efca01}\textsf{CMG Element CH}}$$</abbr>.</td>
+        <td>$${\color{#d3d3d3}\textsf{discontinued}}$$</td>
       </tr>
     </tbody>
   </table>
