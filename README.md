@@ -143,6 +143,20 @@
         <td>student council website</td>
         <td>active</td>
       </tr>
+      <!-- extension............ -->
+      <tr>
+        <td align="center" colspan="3"><strong>Extension</strong></td>
+      </tr>
+      <tr>
+        <td><a target="_blank" rel="noopener noreferrer" href="https://aitji.xyz/get/7tv"><b>7</b>TV Anywhere</a></td>
+        <td>A browser extension for 7TV emote images wherever they show up, and adds a autocomplete to text fields. Available both chrome store & firefox store</td>
+        <td>active</td>
+      </tr>
+      <tr>
+        <td><a target="_blank" rel="noopener noreferrer" href="https://aitji.xyz/get/cuemark">CueMark</a></td>
+        <td>Turn timestamped YouTube comments into moments that return during playback. Available both chrome store & firefox store</td>
+        <td>active</td>
+      </tr>
       <!-- Co-Contributing............ -->
       <tr align="center">
         <td colspan="3"><strong>Co-Contributing</strong></td>
