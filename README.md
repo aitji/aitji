@@ -195,16 +195,6 @@
         decoding="async">
     </picture>
   </a>
-  <div>
-    <a title="github streak stats" href="https://aitji.xyz" target="_blank" rel="noopener noreferrer">
-      <picture>
-        <img src="https://streak-stats.demolab.com?user=aitji&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=900&card_height=300"
-          alt="github streak"
-          loading="lazy"
-          decoding="async">
-      </picture>
-    </a>
-  </div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/aitji/aitji@output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/aitji/aitji@output/github-snake.svg">
